@@ -1,0 +1,16 @@
+{
+  "name": "vague-wrench-drop-eia47",
+  "productName": "vague-wrench-drop-eia47",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "Administrator",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "19.0.6"
+  }
+}
