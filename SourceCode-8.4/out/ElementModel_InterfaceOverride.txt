@@ -1,0 +1,17 @@
+.版本 2
+
+.子程序 Create, 整数型, 公开, @Override 创建物体
+.参数 ptrClass, 整数型, , 方法所在类的指针
+
+返回 (0)
+
+.子程序 Logic, 整数型, 公开, @Override 逻辑函数
+.参数 LogicFrame, 整数型, , 逻辑帧
+.参数 FrameLength, 整数型, , 帧长度
+
+返回 (0)
+
+.子程序 Render, 整数型, 公开, @Override 渲染函数
+.参数 ptrClass, 整数型, , 方法所在类的指针
+
+返回 (0)
