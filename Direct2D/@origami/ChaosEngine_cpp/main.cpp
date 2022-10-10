@@ -13,7 +13,7 @@ int main()
 {
     cout << "Engine Start" << endl;
 
-    int *ptr; // 空指针
+    int* ptr; // 空指针
     // 字符串 是数据地址
 
     // char *ptrChar;
