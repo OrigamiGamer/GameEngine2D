@@ -1,3 +1,2 @@
 # Introduction
-This is a game engine can make 2D game.
-It's my new project,wish you like it,thanks.
+These Game Engines are just having be stored by a way of cloud into this repository on github.
